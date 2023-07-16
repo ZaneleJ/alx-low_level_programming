@@ -2,10 +2,10 @@
 #include <unistd.h>
 /**
  *  main - entry point
- *  Return | (Success)
+ *  Return: Always 1 (Success)
  */
 int main(void)
 {
-	fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
+	write("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
 return (1);
 }
