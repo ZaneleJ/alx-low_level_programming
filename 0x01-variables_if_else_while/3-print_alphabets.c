@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - Prints the alphabets
+ * main - Prints the alphabets.
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char alp[52] = "abcdefghijklmnopqrstwxyzABCDEFGHIJKLMNOPQRSTWXYZ"
+	char alp[52] = "abcdefghijklmnopqrstwxyzABCDEFGHIJKLMNOPQRSTWXYZ";
 		int i;
-	for (i = 0; i < 52; i++)
+	for (i = 0; i < 52; i++);
 	{
 		putchar(alp[i]);
 	}
