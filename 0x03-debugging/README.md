@@ -1,2 +1,2 @@
 # 0x03-debugging
-Debuggind projets
+Debuggind project, We will be learning how to debugg
